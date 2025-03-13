@@ -1,10 +1,10 @@
-# bluespyder
+# bluespyder    **development and research ongoing**
 
 
 ![Screenshot Placeholder](blue5.png)
 
 
-#Under development and research
+
 
 Bluetooth Device Manager 🌐
 
