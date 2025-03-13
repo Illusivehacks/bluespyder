@@ -1,4 +1,4 @@
-# bluespyder    **development and research ongoing**
+# Bluespyder   || **Development and research ongoing**
 
 
 ![Screenshot Placeholder](blue5.png)
